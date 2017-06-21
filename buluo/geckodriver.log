@@ -1,0 +1,11 @@
+1497949786646	geckodriver	INFO	Listening on 127.0.0.1:59111
+1497949788807	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1497949813422	Marionette	INFO	Listening on port 59123
+1497949813516	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
